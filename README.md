@@ -1,6 +1,6 @@
 # React Accordion
 
-A reusable Accordion component built with React and Tailwind CSS.
+An interactive FAQ-style React Accordion component with single and multi-selection modes.
 
 ## Features
 
