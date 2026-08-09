@@ -1,6 +1,11 @@
 # React Accordion
 
 An interactive FAQ-style React Accordion component with single and multi-selection modes.
+# Demo
+
+
+https://github.com/user-attachments/assets/0d013983-0468-402b-a58c-df2361408c17
+
 
 ## Features
 
